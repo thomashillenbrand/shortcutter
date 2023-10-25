@@ -1,0 +1,10 @@
+Shortcutter V0.1
+
+ Other Ideas:
+  fix sizing/formatting
+  checking/setting permissions
+
+Next Steps:
+ > convert into more traditional app structure
+ > prettify the UI
+ > sudo-less execution of functionality
